@@ -1,0 +1,62 @@
+﻿id,shop_name,food_name,meal_size,meal_form,cuisine,price,price_range,lat,lon,image_url,calories_estimate,nutrition_profile,food_name
+001,Cơm tấm A Dũng,Cơm tấm,full_meal,dry,vie,50000,standard,10.76534041,106.7067963,https://commons.wikimedia.org/wiki/Special:FilePath/Com-Tam-2008.jpg,high,high_protein,Cơm tấm
+002,Bún riêu Yến,Bún riêu,full_meal,liquid,vie,40000,standard,10.79176868,106.6639735,https://commons.wikimedia.org/wiki/Special:FilePath/Bun_rieu.jpg,medium,high_protein,Bún riêu
+003,Cơm tấm Phúc Lộc Thọ,Cơm tấm,full_meal,dry,vie,40000,standard,10.77198548,106.6700779,https://commons.wikimedia.org/wiki/Special:FilePath/C%C6%A1m_t%E1%BA%A5m_s%C6%B0%E1%BB%9Dn_b%C3%AC_ch%E1%BA%A3.jpg,high,high_protein,Cơm tấm
+004,Mì trộn Kỳ Đồng,Mì trộn,full_meal,dry,vie,50000,standard,10.78455043,106.6811926,https://commons.wikimedia.org/wiki/Special:FilePath/Mie_goreng.jpg,medium,normal,Mì trộn
+005,PizzaHut (Nguyễn Tri Phương),Pizza,full_meal,dry,us,150000,premium,10.76617378,106.6673172,https://commons.wikimedia.org/wiki/Special:FilePath/Pizza_Margherita.jpg,high,greasy,Pizza
+006,Bún thịt nướng Kiều Bảo,Bún thịt nướng,full_meal,dry,vie,35000,standard,10.76218795,106.6681665,https://commons.wikimedia.org/wiki/Special:FilePath/Bun_thit_nuong.jpg,medium,high_protein,Bún thịt nướng
+007,Lẩu gà lá é Dã Chiến,Lẩu gà lá é,full_meal,liquid,vie,100000,premium,10.7683009,106.667032,https://commons.wikimedia.org/wiki/Special:FilePath/Hotpot.jpg,medium,high_protein,Lẩu gà lá é
+008,Bún thái A Tùng,Bún thái,full_meal,liquid,vie,40000,standard,10.77285038,106.6691865,https://commons.wikimedia.org/wiki/Special:FilePath/Thai_noodle_soup%2C_spicy%2C_Khao_Yai%2C_Thailand.jpg,medium,high_protein,Bún thái
+009,Bún chả 36,Bún chả,full_meal,liquid,vie,45000,standard,10.76800077,106.6612994,https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BAn_ch%E1%BA%A3_H%C3%A0_N%E1%BB%99i_%28th%E1%BB%8Bt_n%C6%B0%E1%BB%9Bng%29_t%E1%BA%A1i_Nguy%E1%BB%85n_S%C6%A1n%2C_T%C3%A2n_Ph%C3%BA_%281%29.jpg,medium,high_protein,Bún chả
+010,Bún chả 36,Bún đậu mắm tôm,full_meal,dry,vie,50000,standard,10.76800077,106.6612994,https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BAn_%C4%91%E1%BA%ADu_m%E1%BA%AFm_t%C3%B4m.jpg,high,greasy,Bún đậu mắm tôm
+011,Pizza 4P's (Hai Bà Trưng),Pizza,full_meal,dry,us,250000,premium,10.78333733,106.6970999,https://commons.wikimedia.org/wiki/Special:FilePath/Margherita_pizza.jpg,high,greasy,Pizza
+012,Pizza 4P's (Hai Bà Trưng),Mỳ Ý,full_meal,dry,us,150000,premium,10.78333733,106.6970999,https://commons.wikimedia.org/wiki/Special:FilePath/Spaghetti-prepared.jpg,high,normal,Mỳ Ý
+013,Texas Chicken (Lê Đại Hành),Gà rán,full_meal,dry,us,80000,standard,10.76336118,106.6560431,https://commons.wikimedia.org/wiki/Special:FilePath/Fried_Chicken.jpg,high,greasy,Gà rán
+014,"Bánh cuốn, bánh ướt Đào Duy Từ",Bánh cuốn,full_meal,dry,vie,25000,cheap,10.76036204,106.6669321,https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_cu%E1%BB%91n.jpg,low,normal,Bánh cuốn
+015,"Bánh cuốn, bánh ướt Đào Duy Từ",Bánh ướt,full_meal,dry,vie,25000,cheap,10.76036204,106.6669321,https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_%C6%B0%E1%BB%9Bt.jpg,low,normal,Bánh ướt
+016,Hanur! (Điện Biên Phủ),Miến trộn,full_meal,dry,kor,60000,standard,10.77122415,106.6771543,https://commons.wikimedia.org/wiki/Special:FilePath/Japchae.jpg,medium,normal,Miến trộn
+017,Hanur! (Điện Biên Phủ),Gà rán,full_meal,dry,kor,50000,standard,10.77122415,106.6771543,https://commons.wikimedia.org/wiki/Special:FilePath/Friedchicken.jpg,high,greasy,Gà rán
+018,Hanur! (Điện Biên Phủ),Cơm trộn,full_meal,dry,kor,60000,standard,10.77122415,106.6771543,https://commons.wikimedia.org/wiki/Special:FilePath/Bibimbap_with_side_dishes.jpg,high,normal,Cơm trộn
+019,Gỏi cuốn Mạ Tôi,Cuốn bò bía,light_meal,finger,vie,40000,standard,10.75786079,106.6892412,https://commons.wikimedia.org/wiki/Special:Redirect/file/Bo_Bia_Jicama_Rolls.jpg,medium,normal,Cuốn bò bía
+020,KFC (Lê Văn Sỹ),Gà rán,full_meal,dry,us,80000,standard,10.78982005,106.6758621,https://commons.wikimedia.org/wiki/Special:Redirect/file/KFC_Fried_chicken.jpg,high,normal,Gà rán
+021,Jolibee,Gà rán,full_meal,dry,us,60000,standard,10.77980495,106.6672888,https://commons.wikimedia.org/wiki/Special:Redirect/file/Jollibee_Chickenjoy_with_Palabok.jpg,high,greasy,Gà rán
+022,Jolibee,Mì Ý,full_meal,dry,us,50000,standard,10.77980495,106.6672888,https://commons.wikimedia.org/wiki/Special:Redirect/file/Classic-spaghetti-carbonara.jpg,high,normal,Mì Ý
+023,Pad Thái Nana,Pad Thái,full_meal,dry,tha,55000,standard,10.76227751,106.7033091,https://commons.wikimedia.org/wiki/Special:FilePath/Pad_thai.jpg,high,greasy,Pad Thái
+024,Sum Thai,Pad Thái,full_meal,dry,tha,100000,premium,10.76593093,106.6679017,https://commons.wikimedia.org/wiki/Special:Redirect/file/Pad_Thai_with_Pork_-_Unithai.jpg,high,greasy,Pad Thái
+025,Sum Thai,Gỏi tôm,light_meal,dry,tha,100000,premium,10.76593093,106.6679017,https://upload.wikimedia.org/wikipedia/commons/6/68/Vietnamese_mango_salad_with_shrimp.jpg,low,high_protein,Gỏi tôm
+026,Sum Thai,Sườn hầm,full_meal,liquid,tha,150000,premium,10.76593093,106.6679017,https://commons.wikimedia.org/wiki/Special:FilePath/Galbi-jjim.jpg,medium,high_protein,Sườn hầm
+027,Sum Thai,Xôi xoài,snack,dry,tha,70000,premium,10.76593093,106.6679017,https://commons.wikimedia.org/wiki/Special:FilePath/Mango_sticky_rice.jpg,high,sweet,Xôi xoài
+028,Unagi Shokudo,Cơm lươn,full_meal,dry,jpn,180000,premium,10.72345549,106.7278693,https://commons.wikimedia.org/wiki/Special:FilePath/Unadon_%286029037412%29.jpg,high,high_protein,Cơm lươn
+029,Unagi Shokudo,Sushi,full_meal,dry,jpn,200000,premium,10.72345549,106.7278693,https://commons.wikimedia.org/wiki/Special:FilePath/Sushi_%281%29.jpg,medium,high_protein,Sushi
+030,Unagi Shokudo,Ramen,full_meal,liquid,jpn,140000,premium,10.72345549,106.7278693,https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_ramen_-_Flickr_-_Zanpei.jpg,medium,normal,Ramen
+031,Phở Lệ,Phở,full_meal,liquid,vie,60000,standard,10.75613896,106.6734337,https://commons.wikimedia.org/wiki/Special:FilePath/Vietnamese_Ph%E1%BB%9F.jpg,medium,high_protein,Phở
+032,Phở Ba Nấu,Phở,full_meal,liquid,vie,35000,standard,10.79795723,106.6644205,https://commons.wikimedia.org/wiki/Special:FilePath/Pho-Beef-Noodles-2008.jpg,medium,high_protein,Phở
+033,Bún bò O Thuỷ,Bún bò,full_meal,liquid,vie,40000,standard,10.78674705,106.6815173,https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF.jpg,medium,high_protein,Bún bò
+034,Lạp xưởng nướng đá Cappy,Lạp xưởng nướng đá,snack,dry,vie,15000,cheap,10.77892626,106.6622058,https://commons.wikimedia.org/wiki/Special:FilePath/Chinesesausageunpackaged.jpg,high,greasy,Lạp xưởng nướng đá
+035,Ikigai Sushi,Sushi,full_meal,dry,jpn,250000,luxury,10.76950226,106.6835455,https://commons.wikimedia.org/wiki/Special:FilePath/Sushi_platter.jpg,medium,high_protein,Sushi
+036,Bánh mì Chim Chạy,Bánh mì,full_meal,finger,vie,35000,standard,10.7717373,106.6871313,https://upload.wikimedia.org/wikipedia/commons/1/19/B%C3%A1nh_m%C3%AC.jpg,medium,normal,Bánh mì
+037,Bánh mì Bà Huynh,Bánh mì,full_meal,finger,vie,60000,standard,10.76723585,106.6879058,https://commons.wikimedia.org/wiki/Special:FilePath/Banh_mi_sandwich.jpg,medium,normal,Bánh mì
+038,Miến gà Kỳ Đồng,Miến gà,full_meal,liquid,vie,55000,standard,10.78491381,106.6816781,https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_noodle_soup.jpg,medium,high_protein,Miến gà
+039,Mì sủi cảo Kon Lou,Mì sủi cảo,full_meal,liquid,vie,55000,standard,10.78389104,106.6808203,https://commons.wikimedia.org/wiki/Special:FilePath/Wanton_noodles.jpg,medium,high_protein,Mì sủi cảo
+040,Sủi cảo Hà Tôn Quyền,Mì sủi cảo,full_meal,liquid,vie,55000,standard,10.76372808,106.6529642,https://commons.wikimedia.org/wiki/Special:Redirect/file/Wonton_Noodle_-_Wu_Cai_Ji_-_20131228.jpg,medium,high_protein,Mì sủi cảo
+041,Sủi cảo Hà Tôn Quyền,Sủi cảo,light_meal,dry,vie,40000,standard,10.76372808,106.6529642,https://commons.wikimedia.org/wiki/Special:FilePath/Jiaozi%21.jpg,medium,high_protein,Sủi cảo
+042,Sủi cảo Hà Tôn Quyền,Há cảo,light_meal,dry,vie,40000,standard,10.76372808,106.6529642,https://commons.wikimedia.org/wiki/Special:FilePath/Har_gow.jpg,medium,high_protein,Há cảo
+043,Há cảo Hoà,Há Cảo,light_meal,dry,vie,35000,standard,10.75300367,106.6679473,https://commons.wikimedia.org/wiki/Special:Redirect/file/HarGau.jpg,medium,high_protein,Há Cảo
+044,Panda Sushi & Takoyaki,Sushi,full_meal,dry,jpn,70000,standard,10.78164352,106.6792909,https://commons.wikimedia.org/wiki/Special:Redirect/file/SushiMaki.jpg,medium,high_protein,Sushi
+045,Panda Sushi & Takoyaki,Cơm lươn,full_meal,dry,jpn,80000,standard,10.78164352,106.6792909,https://commons.wikimedia.org/wiki/Special:Redirect/file/Unadon_by_chiaki0808_in_Nagoya.jpg,high,high_protein,Cơm lươn
+046,GỎI CUỐN BÀ DZÚ,Gỏi cuốn tôm,full_meal,finger,jpn,65000,standard,10.76783656,106.6912868,https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicken_and_shrimp_spring_rolls.jpg,medium,normal,Gỏi cuốn tôm
+047,Bánh mì bò nướng bơ Campuchia,Bánh mì bò nướng bơ,light_meal,dry,kh,40000,standard,10.77381754,106.6719453,https://assets.grab.com/wp-content/uploads/sites/11/2019/11/15182245/photo7-22-e1573813536331.jpg,high,greasy,Bánh mì bò nướng bơ
+048,Bao tử cá Hoàng Nhi,Bao tử cá,snack,dry,vie,40000,standard,10.76410706,106.67377,https://commons.wikimedia.org/wiki/Special:FilePath/Fish_maw_soup.jpg,medium,high_protein,Bao tử cá
+049,Bao tử cá Hoàng Nhi,Súp cua,snack,dry,vie,30000,standard,10.76410706,106.67377,https://commons.wikimedia.org/wiki/Special:FilePath/She-Crab_Soup.jpg,low,high_protein,Súp cua
+050,Bao tử cá Hoàng Nhi,Tôm sống sốt thái,snack,dry,vie,40000,standard,10.76410706,106.67377,https://commons.wikimedia.org/wiki/Special:Redirect/file/SpicyRawShrimpSalad.jpg,low,high_protein,Tôm sống sốt thái
+051,Wallace,Gà rán,full_meal,dry,us,70000,standard,10.76135433,106.6674636,https://commons.wikimedia.org/wiki/Special:FilePath/Fried_chicken_-_Arnold_Gatilao.jpg,high,greasy,Gà rán
+052,Mì cay Asan,Mì cay,full_meal,liquid,kor,50000,standard,10.77848867,106.664586,https://commons.wikimedia.org/wiki/Special:FilePath/Shin_ramyun.jpg,medium,normal,Mì cay
+053,Mì cay Sasin,Mì cay,full_meal,liquid,kor,50000,standard,10.79823361,106.6861287,https://cdn.tgdd.vn/Files/2019/09/24/1201263/cach-nau-mi-cay-hai-san-chuan-cong-thuc-han-quoc-201909240813001607.jpg,medium,normal,Mì cay
+054,Mì cay Seoul,Mì cay,full_meal,liquid,kor,50000,standard,10.75945483,106.6779041,https://cdn.hstatic.net/files/200000700229/article/cach-nau-mi-cay-hai-san-thumb_c56c1db15d7b435f99dbb2f33504724d.jpg,medium,normal,Mì cay
+055,Cơm quê Dường Bầu,Cơm niêu,full_meal,dry,vie,300000,luxury,10.77401966,106.7049598,https://commons.wikimedia.org/wiki/Special:FilePath/Claypot_rice.jpg,high,normal,Cơm niêu
+056,Haidilao (Sư Vạn Hạnh),Lẩu,full_meal,liquid,chn,350000,luxury,10.7718891,106.6698984,https://commons.wikimedia.org/wiki/Special:Redirect/file/Haidilao_Hot_Pot.jpg,medium,high_protein,Lẩu
+057,Bánh canh cua Út Lệ,Bánh canh cua,full_meal,liquid,vie,40000,standard,10.77985586,106.6667871,https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_canh_cua.jpg,medium,high_protein,Bánh canh cua
+058,Bát Nhất Bánh Cuốn Quảng Châu,Bánh cuốn tôm Quảng Châu,full_meal,dry,chn,38000,standard,10.76297551,106.6550347,https://commons.wikimedia.org/wiki/Special:FilePath/Dried_shrimp_rice_noodle_roll.jpg,low,high_protein,Bánh cuốn tôm Quảng Châu
+059,Đậu Hủ Thúi Ngô Gia,Đậu hủ thúi truyền thống,snack,dry,chn,30000,standard,10.76376543,106.647246,https://commons.wikimedia.org/wiki/Special:FilePath/Stinky_tofu.jpg,high,vegetarian,Đậu hủ thúi truyền thống
+060,Đậu Hủ Thúi Ngô Gia,Đậu hủ thúi lắc muối,snack,dry,chn,30000,standard,10.76376543,106.647246,https://commons.wikimedia.org/wiki/Special:FilePath/Stinky_tofu_in_Hualien.jpg,high,vegetarian,Đậu hủ thúi lắc muối
+061,Cháo gà Vân Hương,Cháo thịt gà hạt sen chặt,full_meal,dry,vie,45000,standard,10.76180962,106.6773606,https://commons.wikimedia.org/wiki/Special:FilePath/Chinese_rice_congee.jpg,medium,high_protein,Cháo thịt gà hạt sen chặt

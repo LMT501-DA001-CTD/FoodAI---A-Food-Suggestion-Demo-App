@@ -1,0 +1,85 @@
+/* ===== BASE (Nền sáng) ===== */
+:root {
+  --bg-primary:    #FFFFFF;   /* Nền chính màu trắng */
+  --bg-secondary:  #F0F2F6;   /* Nền phụ xám nhạt (cho các mảng background phụ) */
+  --bg-card:       #F8F9FA;   /* Nền thẻ (card) hơi xám để tách biệt với nền trắng */
+  --orange:        #FF6B2B;   /* Giữ nguyên màu cam nhấn */
+  --orange-light:  #FF8C55;
+  --blue:          #4A7BF7;
+  --text-primary:  #12172B;   /* Chữ chính màu tối để nổi trên nền trắng */
+  --text-muted:    #5A6278;   /* Chữ phụ màu xám vừa */
+  --border-color:  #E0E4EB;   /* Viền xám nhạt */
+  --success:       #27AE60;
+  --font-main:     'Be Vietnam Pro', 'Segoe UI', sans-serif;
+}
+
+body, .stApp { background: var(--bg-primary) !important; color: var(--text-primary) !important; }
+
+.main .block-container {
+  max-width: 460px !important;
+  margin: 0 auto !important;
+  padding: 1rem !important;
+  background: var(--bg-primary);
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4 { color: var(--text-primary) !important; font-weight: 700 !important; }
+h1 { font-size: 1.7rem !important; }
+p, label, .stCaption, .stMarkdown p { color: var(--text-muted); }
+
+/* Streamlit elements */
+[data-testid="stMetricValue"] { color: var(--text-primary) !important; }
+[data-testid="stMetricLabel"] { color: var(--text-muted) !important; }
+
+/* Buttons — secondary (pill outline/fill) */
+.stButton > button {
+  border-radius: 999px !important;
+  border: 1px solid #D1D5DB !important; /* Viền xám đậm hơn một chút để rõ form nút */
+  background: #F3F4F6 !important; /* Đổ nền xám nhạt thay vì để trong suốt */
+  color: #1F2937 !important; /* Chữ xám đậm/gần đen để nổi bật, dễ đọc */
+  font-weight: 600 !important;
+  padding: 8px 14px !important;
+  transition: all 0.15s ease;
+}
+
+/* Hiệu ứng khi lướt chuột qua nút chưa chọn */
+.stButton > button:hover {
+  border-color: var(--orange) !important;
+  background: #FFF0E6 !important; /* Nền chuyển sang cam rất nhạt */
+  color: var(--orange) !important;
+}
+
+/* Primary buttons (nút đã chọn / Call-to-action) - Giữ nguyên không đổi */
+.stButton > button[kind="primary"] {
+  background: var(--orange) !important;
+  color: white !important;
+  border: 1px solid var(--orange) !important;
+  border-radius: 999px !important;
+  font-weight: 700 !important;
+  padding: 10px 14px !important;
+}
+
+.stButton > button[kind="primary"]:hover {
+  background: var(--orange-light) !important;
+  border-color: var(--orange-light) !important;
+  color: white !important;
+}
+
+/* Disabled buttons */
+.stButton > button:disabled {
+  opacity: 0.4 !important;
+  cursor: not-allowed !important;
+}
+
+/* Slider */
+.stSlider [data-baseweb="slider"] > div > div { background: var(--orange) !important; }
+.stSlider [role="slider"] { background: var(--orange) !important; border-color: var(--orange) !important; }
+
+/* Info / warning */
+.stAlert { border-radius: 12px !important; }
+
+/* Caption */
+.stCaption { color: var(--text-muted) !important; font-size: 12px !important; }
+
+/* Folium map container */
+iframe { border-radius: 12px; }
